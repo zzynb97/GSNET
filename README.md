@@ -18,12 +18,12 @@ cd GSNET-pytoch-main
 
 4. Run experiment <br>
 
-each dataset has a trained .pt file in pts file, and run<br> 
+Each dataset has a trained .pt file in pts file, and run<br> 
 `python GSNET.py` <br>
-will present the result about **MNIST** dataset by default. <br>
+will show the result about **MNIST** dataset by default. <br>
 
 if you want to run the entire training process by yourself, please select the 'train' model by using <br>
-`python GSNET.py --model train` <br>
+`python GSNET.py --mode train` <br>
 
 5. Other usage <br>
  
