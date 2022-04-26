@@ -10,8 +10,10 @@ conda install pytorch==1.10.1 torchvision==0.11.2 torchaudio==0.10.1 cudatoolkit
 2. Clone the code to local <br>
 ```    
 git clone https://github.com/zzynb97/GSNET-pytorch.git 
-cd GSNET
+cd GSNET-pytoch-main
 ```
+3. Prepare dataset
+ 
 use  `python GSNET.py -h`  for help <br>
 if you want to obtain the result directly, please select the `eval` model 
 ![](/GSNET_MNIST.png)
