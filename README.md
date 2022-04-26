@@ -12,8 +12,8 @@ conda install pytorch==1.10.1 torchvision==0.11.2 torchaudio==0.10.1 cudatoolkit
 git clone https://github.com/zzynb97/GSNET-pytorch.git 
 cd GSNET-pytoch-main
 ```
-3. Prepare dataset
- 
+3. Prepare dataset <br>
+**MNIST** dataset is available for
 use  `python GSNET.py -h`  for help <br>
 if you want to obtain the result directly, please select the `eval` model 
 ![](/GSNET_MNIST.png)
