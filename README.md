@@ -33,3 +33,4 @@ use  `python GSNET.py -h`  for help <br>
 
 ## Results
 ![](/GSNET_MNIST.png)
+![](/GSNET_NORB.png)
