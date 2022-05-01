@@ -15,7 +15,7 @@ cd GSNET-main
 3. Prepare dataset <br>
 
 **MNIST** dataset can be downloaded automatically when you run the code <br>
-**NORB** dataset can be downloaded online or in the following :
+**NORB** dataset can be downloaded online or in the following : <br>
 https://pan.baidu.com/s/11Fhq7G2WMtoXM5a-9XA4vw passward: `d3xy`
 
 4. Run experiment <br>
