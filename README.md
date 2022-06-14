@@ -1,5 +1,4 @@
 # GSNET-pytorch
-Pytorch implementation for science paper: <br>
 * Generalized Stochastic Neighbor Embedding Training for Pattern Discovery
 ## Usage
 1. install [pytorch >= 1.0.0](https://pytorch.org/get-started/locally/) and the matched cuda version <br>
